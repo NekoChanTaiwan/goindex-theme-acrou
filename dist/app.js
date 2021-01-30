@@ -1,6 +1,6 @@
 var scripts = [
-	'https://cdn.jsdelivr.net/gh/NekoChanTaiwan/goindex-theme-acrou@v2.0.8.neko.3.neko.2/dist/js/app.46413247.js',
-	'https://cdn.jsdelivr.net/gh/NekoChanTaiwan/goindex-theme-acrou@v2.0.8.neko.3.neko.2/dist/js/chunk-vendors.6df9f5f6.js',
+	'https://cdn.jsdelivr.net/gh/NekoChanTaiwan/goindex-theme-acrou@v2.0.8.neko.3/dist/js/app.46413247.js',
+	'https://cdn.jsdelivr.net/gh/NekoChanTaiwan/goindex-theme-acrou@v2.0.8.neko.3/dist/js/chunk-vendors.6df9f5f6.js',
 ]
 var cdnjs = [
 	'https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js',
