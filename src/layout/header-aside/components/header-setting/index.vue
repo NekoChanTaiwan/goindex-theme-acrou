@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar-item has-dropdown is-hoverable">
+  <div class="navbar-item has-dropdown is-hoverable" style="display:none">
     <a class="navbar-link is-arrowless" title="Setting">
       <i class="fa fa-cog" aria-hidden="true"></i>
     </a>

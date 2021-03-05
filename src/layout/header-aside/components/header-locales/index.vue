@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar-item has-dropdown is-hoverable">
+  <div class="navbar-item has-dropdown is-hoverable" style="display:none">
     <a class="navbar-link is-arrowless">
       <i class="fa fa-language"></i>
     </a>
